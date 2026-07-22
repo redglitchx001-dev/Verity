@@ -1,0 +1,2 @@
+discord.py-self
+git+https://github.com/Simatwa/python-tgpt.git
