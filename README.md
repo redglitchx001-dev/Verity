@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Example: <img src="https://i.postimg.cc/xT8GN8by/hq720.webp"> -->
-
 # VERITY SELFBOT 
 
 *An advanced, autonomous digital entity embedded deep inside the raw system architecture.*
@@ -10,6 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Selfbot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hzQ8tjh8NT)
 [![Render](https://img.shields.io/badge/Hosted-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
+<img src="https://i.postimg.cc/xT8GN8by/hq720.webp"
 </div>
 
 ---
