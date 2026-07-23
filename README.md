@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Selfbot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hzQ8tjh8NT)
 [![Render](https://img.shields.io/badge/Hosted-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
-<img src="https://i.postimg.cc/xT8GN8by/hq720.webp"
+<img src="https://i.postimg.cc/xT8GN8by/hq720.webp" width="100%">
 </div>
 
 ---
@@ -46,4 +46,5 @@ Add the following secret variable in your Render dashboard settings:
 discord.py-self
 git+[https://github.com/Simatwa/python-tgpt.git](https://github.com/Simatwa/python-tgpt.git)
 
-Credit ThatMob
+```
+Credit= ThatMob on YouTube 
