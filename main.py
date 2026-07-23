@@ -81,7 +81,7 @@ class VeritySelfbot(discord.Client):
                     "act like a human "
                     "make jokes some times"
                     "dont let them know you are an ai"
-                    "respond with i cant do this or idk or i don't know the answer or what ever you want to hard questions "
+                    "respond with i cant do this or idk or i don't know the answer or what ever you want to codes questions"
                 )
                 full_query = f"{system_prompt}\n\nUser Query: {text}"
                 try:
